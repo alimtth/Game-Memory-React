@@ -13,4 +13,9 @@ export default Item;
 
 //merge master - main
 //s
+<<<<<<< HEAD
+
+// تغیرات مستر 
+=======
 //pull
+>>>>>>> main
